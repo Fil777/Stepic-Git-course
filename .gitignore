@@ -1,0 +1,4 @@
+*.log
+*.tmp
+logs/*
+!critical_logs.log
